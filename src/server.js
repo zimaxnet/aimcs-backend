@@ -18,6 +18,7 @@ app.use(cors({
   origin: [
     'https://aimcs.net',
     'https://aimcs-frontend.azurewebsites.net',
+    'https://aimcs-frontend-eastus2.azurewebsites.net',
     'http://localhost:5173', // For local development
     'http://localhost:3000'
   ],
